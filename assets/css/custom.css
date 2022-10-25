@@ -150,6 +150,7 @@ padding-bottom: 50px;
         -webkit-text-fill-color: transparent;
         font-size: 4rem;
         font-weight: 900;
+        display: block;
     }
 
     .year{
@@ -386,6 +387,32 @@ padding-bottom: 50px;
             padding: 7%;
         }
 
+        .nk-box-3, .nk-box-rounded-3 {
+        padding: 0px ;
+        padding-top: 5%;
+        }
+
+        nk-isotope .nk-isotope-item, .nk-isotope .nk-isotope-item.nk-isotope-item-x2, .nk-isotope .nk-isotope-item.nk-isotope-item-x3, .nk-isotope.nk-isotope-3-cols .nk-isotope-item, .nk-isotope.nk-isotope-2-cols .nk-isotope-item {
+            width: 100%;
+            padding: 1rem;
+            padding-bottom: 0rem;
+        }
+
+        .nk-portfolio-item {
+            width: 75%;
+            margin: 0 auto !important;
+        }
+
+        .thanks{
+        
+            background-size: 200%;
+      
+        }
+
+        .bg-image .bg{
+            background-size: 200%;
+        
+        }
 
       
     }
