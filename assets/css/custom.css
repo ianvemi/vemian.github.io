@@ -15,7 +15,7 @@
     background-color: var(--year-color);
     background-attachment: fixed;
     background-size: cover;
-    background-image: url('../images/1.webp');
+    background-image: url('../images/2023_bg.webp');
     opacity: 0.9; 
 
 }
@@ -73,7 +73,7 @@
     font-family: 'Poppins', sans-serif;
     background-color: var(--year-color);
     transition: all 2s;
-    background-image: url(../images/1.webp);
+    background-image: url(../images/2023_bg.webp);
     background-position: -10%;
     background-repeat: no-repeat;
     font-weight: 500;
@@ -145,7 +145,7 @@ padding-bottom: 50px;
     .title-port h2{
         color: white;
         background-size: cover;
-        background-image: url('../images/1.webp');
+        background-image: url('../images/2023_bg.webp');
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-size: 4rem;
@@ -158,7 +158,7 @@ padding-bottom: 50px;
     .year{
         color: white;
         background-size: 260%;
-        background-image: url('../images/1.webp');
+        background-image: url('../images/2023_bg.webp');
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-size: 4rem;
@@ -170,8 +170,8 @@ padding-bottom: 50px;
      
 
     .nk-isotope-filter .active{
-        background-color: #B1CB64;
-        color: var(--year-color);
+        background-color: #BD264B;
+        color: white;
         /* background-image: url('../images/1.webp'); */
         /* background-attachment: fixed;
         background-size: 500%;
@@ -253,15 +253,15 @@ padding-bottom: 50px;
    
 
     .thanks{
-        background-image: url(../images/1.webp);
+        background-image: url(../images/2023_bg.webp);
         background-size: cover;
         background-attachment: fixed;
     }
 
     .thanks h2{
-        background-color: var(--year-color);
         color: white;
         padding: 1rem;
+        font-size:2.8rem;
         padding-top: 3rem;
         padding-bottom: 3rem;
 
@@ -461,7 +461,7 @@ padding-bottom: 20%;
   
   /* Facebook */
   .fa-linkedin {
-    background: #5C21FF;
+    background: #BD264B;
     color: white !important;
 
 
@@ -469,14 +469,14 @@ padding-bottom: 20%;
   
   /* Twitter */
   .fa-instagram {
-    background: #5C21FF;
+    background: #BD264B;
     color: white  !important;
 
     
   }
 
   .fa-behance {
-    background: #5C21FF;
+    background: #BD264B;
     color: white !important;
 
 
@@ -484,12 +484,12 @@ padding-bottom: 20%;
 
   
   .fa-github {
-    background: #5C21FF;
+    background: #BD264B;
     color:  white !important;
   }
 
   .fa-spotify {
-    background: #5C21FF;
+    background: #BD264B;
     color:  white !important;
 
     
